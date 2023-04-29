@@ -25,11 +25,20 @@ def papercollector(paperurl):
         print(response)
         print("----------------------------")
 
-keyword =["Machine Learning", "blockchain", "xray", "medical imageing"]
+def keywordmaker(text_add):
+    with open(text_add, 'r') as file:
+        data = file.read()
+    keyword = data.split("\n")
+    return keyword
+    
+
+
+keyword = keywordmaker("fields.txt")
 paper_id_finder(keyword)
 print(paperurl)
 print("====================================================================")
 papercollector(paperurl)
+
 
 
 
