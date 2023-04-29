@@ -1,0 +1,82 @@
+id=f9c602cc436a9ea2f9e7db48c77d924e09ce3c32====>Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms
+id=46200b99c40e8586c8a0f588488ab6414119fb28====>TensorFlow: A system for large-scale machine learning
+id=9c9d7247f8c51ec5a02b0d911d1d7b9e8160495d====>TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+id=f9c990b1b5724e50e5632b94fdb7484ece8a6ce7====>Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting     
+id=b42b1bfdc262bf99e9484e2e9df94df216b96374====>Data Mining Practical Machine Learning Tools and Techniques
+id=25badc676197a70aaf9911865eb03469e402ba57====>Machine learning - a probabilistic perspective
+id=bc00ff34ec7772080c7039b17f7069a2f7df0889====>Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+id=ce615ae61d67db8537e981a0a08da7f0f2ff1cee====>Understanding Machine Learning - From Theory to Algorithms
+id=168f28ac3c8c7ea63bf7ed25f2288e8b67e2fe74====>Scikit-learn: Machine Learning in Python
+id=73f15adaeb9d59cf83e6f556500ab9e54d6487c6====>An Introduction to Machine Learning
+id=ee177faa39b981d6dd21994ac33269f3298e3f68====>An Overview of Blockchain Technology: Architecture, Consensus, and Future Trends
+id=421599384d77dcc1cf46d85dcdd129f72d992176====>Blockchain, State-of-the-Art and Future Trends
+id=97fddbbfd681bce9eeb8e0a013353b4d5b2ba0db====>Blockchain: Blueprint for a New Economy
+id=514520ee917e1390db971deea0d3d5799e64d1f3====>Fusing Blockchain and AI With Metaverse: A Survey
+id=dc025e3e0e1edb62d6eeb1a36c2feeeaab8c2f02====>Blockchain for the Metaverse: A Review
+id=305edd92f237f8e0c583a809504dcec7e204d632====>Blockchain challenges and opportunities: a survey
+id=60be2610dba19761d6458bbac27527b744b0109e====>Blockchain technology in the energy sector: A systematic review of challenges and opportunities
+id=2e82b8539af92b4af1f5c1c59dcce9d31dcefccc====>Blockchain technology and its relationships to sustainable supply chain management       
+id=cd000312c1aa105e61edc23226b6e8d81ac9b0a8====>Blockchain Security: A Survey of Techniques and Research Directions
+id=44dacdec625e31df66736a385e7001ef33756c5f====>Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol
+id=240e7a8dfbe6657aeb28cb102d7e86965afe457a====>Large-Area Perovskite-Related Copper Halide Film for High-Resolution Flexible Xray Imaging Scintillation Screens
+id=fd40a5b00fd1a75e82c8fe3e1df0ac0ca6c44f17====>Centimeter-Sized 2D Perovskitoid Single Crystals for Efficient Xray Photoresponsivity
+id=4715230901b765a2638edd61f8aa91da25a29590====>Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning
+id=722fa7963a5060538910a3f6b400b0b3a53a52ee====>Artificial intelligence on COVID-19 pneumonia detection using chest xray images
+id=b35aea4915973439af0f1f533169b408c8c6aacf====>COVID-19 detection from Xray and CT scans using transfer learning
+id=d18151e03293fe2e42f9c1e2e44f3ade55d04142====>Learning to Recognize Chest-Xray Images Faster and More Efficiently Based on Multi-Kernel Depthwise Convolution
+id=5f6366625c083ea729f82cc4f8ddc8f5d1ce0a93====>Evaluating GAN-Based Image Augmentation for Threat Detection in Large-Scale Xray Security Images
+id=c0c6dfe8ef162919dbdc10d4cdc28aaf8216b756====>Characterization of the oxidation of C/C/SiC composites by Xray micro-tomography
+id=c18c2ff0f1852434ff009b4c859e36d1b971e357====>Joint Registration And Segmentation Of Xray Images Using Generative Adversarial Networks 
+id=1e88ceebc10d5f252151c849317e0e251863a7c3====>XRay: Enhancing the Web's Transparency with Differential Correlation
+id=24b8a0b02bcb7934967757fc59d273a71ba67e30====>TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
+id=50004c086ffd6a201a4b782281aaa930fbfe6ecf====>V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation     
+id=ea7cfe7f2340584cbe653da6077ee7c213e49b92====>Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation
+id=7519a1e9e7371df79bd8a21cee871feb0ec597a5====>UNETR: Transformers for 3D Medical Image Segmentation
+id=2abde28f75a9135c8ed7c50ea16b7b9e49da0c09====>A survey on deep learning in medical image analysis
+id=24aa57dae649b6683d8f5bc8deaf2ff549cdacc4====>Transformers in Medical Imaging: A Survey
+id=20db2a2fadcf563a2d522aabc440b6b4f3ee46f4====>TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation
+id=8356d155d730e374f4db6dfd03d19a7b66c348a8====>CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation
+id=1e5e8106700c8dbdfa036a5a9be5e61e06c0ed02====>Medical Transformer: Gated Axial-Attention for Medical Image Segmentation
+id=979a9f247700d00ff2c3f0612d5eb001379f93c8====>The Medical Segmentation Decathlon
+[
+'https://www.semanticscholar.org/paper/f9c602cc436a9ea2f9e7db48c77d924e09ce3c32',
+'https://www.semanticscholar.org/paper/46200b99c40e8586c8a0f588488ab6414119fb28',
+'https://www.semanticscholar.org/paper/9c9d7247f8c51ec5a02b0d911d1d7b9e8160495d',
+'https://www.semanticscholar.org/paper/f9c990b1b5724e50e5632b94fdb7484ece8a6ce7',
+'https://www.semanticscholar.org/paper/b42b1bfdc262bf99e9484e2e9df94df216b96374', 
+'https://www.semanticscholar.org/paper/25badc676197a70aaf9911865eb03469e402ba57',
+'https://www.semanticscholar.org/paper/bc00ff34ec7772080c7039b17f7069a2f7df0889',
+'https://www.semanticscholar.org/paper/ce615ae61d67db8537e981a0a08da7f0f2ff1cee',
+'https://www.semanticscholar.org/paper/168f28ac3c8c7ea63bf7ed25f2288e8b67e2fe74',
+'https://www.semanticscholar.org/paper/73f15adaeb9d59cf83e6f556500ab9e54d6487c6',
+'https://www.semanticscholar.org/paper/ee177faa39b981d6dd21994ac33269f3298e3f68',
+'https://www.semanticscholar.org/paper/421599384d77dcc1cf46d85dcdd129f72d992176',
+'https://www.semanticscholar.org/paper/97fddbbfd681bce9eeb8e0a013353b4d5b2ba0db',
+'https://www.semanticscholar.org/paper/514520ee917e1390db971deea0d3d5799e64d1f3',
+'https://www.semanticscholar.org/paper/dc025e3e0e1edb62d6eeb1a36c2feeeaab8c2f02',
+'https://www.semanticscholar.org/paper/305edd92f237f8e0c583a809504dcec7e204d632',
+'https://www.semanticscholar.org/paper/60be2610dba19761d6458bbac27527b744b0109e',
+'https://www.semanticscholar.org/paper/2e82b8539af92b4af1f5c1c59dcce9d31dcefccc',
+'https://www.semanticscholar.org/paper/cd000312c1aa105e61edc23226b6e8d81ac9b0a8',
+'https://www.semanticscholar.org/paper/44dacdec625e31df66736a385e7001ef33756c5f',
+'https://www.semanticscholar.org/paper/240e7a8dfbe6657aeb28cb102d7e86965afe457a',
+'https://www.semanticscholar.org/paper/fd40a5b00fd1a75e82c8fe3e1df0ac0ca6c44f17',
+'https://www.semanticscholar.org/paper/4715230901b765a2638edd61f8aa91da25a29590',
+'https://www.semanticscholar.org/paper/722fa7963a5060538910a3f6b400b0b3a53a52ee',
+'https://www.semanticscholar.org/paper/b35aea4915973439af0f1f533169b408c8c6aacf',
+'https://www.semanticscholar.org/paper/d18151e03293fe2e42f9c1e2e44f3ade55d04142',
+'https://www.semanticscholar.org/paper/5f6366625c083ea729f82cc4f8ddc8f5d1ce0a93',
+'https://www.semanticscholar.org/paper/c0c6dfe8ef162919dbdc10d4cdc28aaf8216b756',
+'https://www.semanticscholar.org/paper/c18c2ff0f1852434ff009b4c859e36d1b971e357',
+'https://www.semanticscholar.org/paper/1e88ceebc10d5f252151c849317e0e251863a7c3',
+'https://www.semanticscholar.org/paper/24b8a0b02bcb7934967757fc59d273a71ba67e30',
+'https://www.semanticscholar.org/paper/50004c086ffd6a201a4b782281aaa930fbfe6ecf',
+'https://www.semanticscholar.org/paper/ea7cfe7f2340584cbe653da6077ee7c213e49b92',
+'https://www.semanticscholar.org/paper/7519a1e9e7371df79bd8a21cee871feb0ec597a5',
+'https://www.semanticscholar.org/paper/2abde28f75a9135c8ed7c50ea16b7b9e49da0c09',
+'https://www.semanticscholar.org/paper/24aa57dae649b6683d8f5bc8deaf2ff549cdacc4',
+'https://www.semanticscholar.org/paper/20db2a2fadcf563a2d522aabc440b6b4f3ee46f4',
+'https://www.semanticscholar.org/paper/8356d155d730e374f4db6dfd03d19a7b66c348a8',
+'https://www.semanticscholar.org/paper/1e5e8106700c8dbdfa036a5a9be5e61e06c0ed02',                                 
+'https://www.semanticscholar.org/paper/979a9f247700d00ff2c3f0612d5eb001379f93c8'
+]  
